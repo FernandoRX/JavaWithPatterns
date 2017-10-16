@@ -3,7 +3,7 @@ projeto em java desenvolvido utilizando quatro patterns
 
 Descrição do trabalho 
 
-O projeto é um sistema de vendas, onde um cliente pode comprar vários produtos, após escolher os produtos ele passa seu cartão de crédito para efetuar o pagamento e o sistema tenta encontrar qual banco aquele cartão pertence, logo após o sistema gera uma nota fiscal e deixa o cliente decidir como ele quer receber a sua via.
+O projeto é um sistema de vendas, onde um cliente pode comprar vários produtos, após escolher os produtos ele passa seu banco para efetuar o pagamento e o sistema tenta encontrar qual banco aquele cartão pertence, logo após o sistema gera uma nota fiscal e deixa o cliente decidir como ele quer receber a sua via.
 
 Patterns: Composite , Builder , Chain of Responsibility e Bridge
 Linguagem: Java
